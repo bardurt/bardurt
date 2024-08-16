@@ -26,7 +26,6 @@ development, in my opinion it is the best combination of logical programming, pe
 - JavaScript
 - HTML, CSS
 - PHP
-- MySQL
 
 ### Data and Statistics
 
