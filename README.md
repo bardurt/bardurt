@@ -19,7 +19,6 @@ development, in my opinion it is the best combination of logical programming, pe
 - C++
 - C#
 - C
-- Python
 
 ### Web technologies
 
