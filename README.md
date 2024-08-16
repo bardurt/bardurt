@@ -49,6 +49,6 @@ development, in my opinion it is the best combination of logical programming, pe
 | Faroese       | Native language  |            
 
 
-## More
-
-More information about me [here](https://barthur-thomsen.web.app/)
+## Contact Me
+- [Web](https://barthur-thomsen.web.app/)
+- [LinkedIn](https://www.linkedin.com/in/barthur-thomsen/)
