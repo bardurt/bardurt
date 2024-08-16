@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hello and welcome!
 
-<!--
-**bardurt/bardurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from the Faroe Islands, residing in Peru, hacking things together @ [CrowdComfort](https://www.crowdcomfort.com/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick overview
+
+### What I do
+
+I do application development, main focus on Mobile Application. I am really passionate about doing mobile
+development, in my opinion it is the best combination of logical programming, performance, and design.
+
+## My skills
+
+### Application Development
+
+- Kotlin
+- Java
+- C++
+- C#
+- C
+- Python
+
+### Web technologies
+
+- JavaScript
+- HTML, CSS
+- PHP
+- MySQL
+
+### Data and Statistics
+
+-  Python
+-  R
+
+### Databases
+- MySQL
+- PostgreSQL
+- SQLite
+- Room
+  
+
+### Languages
+
+| Language      | Proficiency      |
+| ------------- | -----------------|
+| English       | Advanced         |                             
+| Spanish       | Intermediate     |
+| Danish        | Native language  |                                                       
+| Faroese       | Native language  |            
+
+
+## More
+
+More information about me [here](https://barthur-thomsen.web.app/)
