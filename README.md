@@ -1,5 +1,8 @@
 # Hello and welcome!
 
+<a href="https://stardev.io/developers/bardurt"><img alt="Check out bardurt's profile on stardev.io" src="https://stardev.io/developers/bardurt/badge/languages/country.svg" /></a>
+
+
 I'm a software engineer from the Faroe Islands, residing in Peru, hacking things together @ [CrowdComfort](https://www.crowdcomfort.com/)
 
 
@@ -46,7 +49,6 @@ development, in my opinion it is the best combination of logical programming, pe
 | Spanish       | Intermediate     |
 | Danish        | Native language  |                                                       
 | Faroese       | Native language  |            
-
 
 ## Contact Me
 - [Web](https://barthur-thomsen.web.app/)
