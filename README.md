@@ -1,8 +1,5 @@
 # Hello and welcome!
 
-<a href="https://stardev.io/developers/bardurt"><img alt="Check out bardurt's profile on stardev.io" src="https://stardev.io/developers/bardurt/badge/languages/country.svg" /></a>
-
-
 I'm a software engineer from the Faroe Islands, residing in Peru, hacking things together @ [CrowdComfort](https://www.crowdcomfort.com/)
 
 
