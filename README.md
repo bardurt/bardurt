@@ -1,3 +1,4 @@
+![GitHub User Stars](https://img.shields.io/github/stars/bardurt?style=plastic)
 # Hello and welcome!
 
 I'm a software engineer from the Faroe Islands, residing in Peru, hacking things together @ [CrowdComfort](https://www.crowdcomfort.com/)
