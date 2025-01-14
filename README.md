@@ -53,4 +53,4 @@ In my free time, I enjoy working with statistical data and performing calculatio
 ## Contact Me
 - [Web](https://barthur-thomsen.web.app/) - See some of my portfolio.
 - [LinkedIn](https://www.linkedin.com/in/barthur-thomsen/) - LinkedInd Profile.
-- [X / Twitter](https://x.com/btreal199199) - Inner musings about numbers and markets and some coding.
+- [X / Twitter](https://x.com/btreal199199) - Inner musings about numbers, markets, and, some coding.
