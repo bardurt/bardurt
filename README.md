@@ -11,8 +11,7 @@ I'm a software engineer from the Faroe Islands, residing in Peru, hacking things
 I do application development, main focus on Mobile Application. I am really passionate about doing mobile
 development, in my opinion it is the best combination of logical programming, performance, and design.
 
-In my free time, I enjoy working with statistical data and performing calculations. I specialize in processing large datasets, primarily using Python and R, to uncover patterns, correlations, and discrepancies within the data.
-
+In my free time, I enjoy working with statistical data and performing complex calculations. I specialize in analyzing large datasets, primarily using Python and R, to uncover patterns, correlations, and discrepancies within the data. When the data is exceptionally large and requires significant computing power, I handle the heavy lifting using Java or C++ and then use Python or R to analyze the results.
 ## My skills
 
 ### Application Development
