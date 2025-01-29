@@ -7,11 +7,13 @@ I'm a software engineer from the Faroe Islands, residing in Peru, hacking things
 ## Quick overview
 
 ### What I do
+I specialize in application development, with the past four years focused primarily on mobile applications. Mobile development facinates me because it blends logical programming, performance optimization, and design in a way that I find rewarding and challenging.
 
-I do application development, main focus on Mobile Application. I am really passionate about doing mobile
-development, in my opinion it is the best combination of logical programming, performance, and design.
+In my free time, I enjoy working with statistical data and performing complex calculations. I analyze large datasets using Python and R to identify patterns, correlations, and anomalies. For exceptionally large datasets requiring high-performance computing, I process the data using Java or C++ before leveraging Python or R for in-depth analysis.
 
-In my free time, I enjoy working with statistical data and performing complex calculations. I specialize in analyzing large datasets, primarily using Python and R, to uncover patterns, correlations, and discrepancies within the data. When the data is exceptionally large and requires significant computing power, I handle the heavy lifting using Java or C++ and then use Python or R to analyze the results.
+
+Additionally, I enjoy building trading bots for market speculation, primarily focusing on indices. I don’t create these bots to maximize profits but rather for the challenge they present. Developing them demands extreme focus and comes with its own costs, making the process both demanding and rewarding. I usually post results from my bots on twitter / x. 
+
 ## My skills
 
 ### Application Development
