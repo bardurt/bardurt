@@ -39,7 +39,6 @@ I also enjoy building trading bots for market speculation, primarily focusing on
 - MySQL
 - PostgreSQL
 - SQLite
-- Room
   
 
 ### Languages
