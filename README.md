@@ -51,6 +51,6 @@ I also enjoy building trading bots for market speculation, primarily focusing on
 | Faroese       | Native language  |            
 
 ## Contact Me
-- [Web](https://barthur-thomsen.web.app/) - See some of my portfolio.
+- [Web](https:www.bardurthomsen.com) - See some of my portfolio.
 - [LinkedIn](https://www.linkedin.com/in/barthur-thomsen/) - LinkedIn Profile.
 - [X / Twitter](https://x.com/barthurtcoder) - Inner musings about numbers, markets, and, some coding.
