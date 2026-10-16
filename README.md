@@ -9,7 +9,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 # Hello and welcome!
 
-I'm a software engineer from the Faroe Islands, hacking things together @ [Klintra](https://www.klintra.fo/)
+I'm a software engineer from the Faroe Islands, hacking things together @ [CrowdComfort](https://crowdcomfort.com/)
 
 
 ## Quick overview
